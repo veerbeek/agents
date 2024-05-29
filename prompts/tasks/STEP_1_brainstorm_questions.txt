@@ -1,0 +1,7 @@
+## Task 
+Take a look at the dataset using the following steps:
+- Randomly shuffle the dataset
+- Look at the columns in the dataset using df.columns
+- Look at the first rows of the shuffled datasets.
+
+After looking at the structure of the dataset, brainstorm {} newsworthy questions that could be answered using the data provided. Number the questions and separate them by double newlines.

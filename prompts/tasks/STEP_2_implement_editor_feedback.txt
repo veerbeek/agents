@@ -1,0 +1,11 @@
+Your editor has given you the following feedback:
+
+```
+{}
+```
+
+Please revise your initial analytical plan in response to this feedback. 
+
+Restart from scratch. Make sure that the plan you return is completely rewritten and clear to someone who is not familiar with the original plan or the feedback provided, DO NOT explicitly mention feedback in the rewritten plan.
+
+Rewritten plan:

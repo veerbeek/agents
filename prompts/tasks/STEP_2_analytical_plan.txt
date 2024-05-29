@@ -1,0 +1,14 @@
+{}
+
+## Task
+
+Let's think step by step to describe an analysis, without using visualization, that would address the following question:
+
+```
+{}
+```
+
+The dataset that is needed to answer this question is enclosed. 
+
+DO NOT use numbered lists for your analytical plan, but outline a general approach and line of reasoning: "First, I will check the data for missing values. Then, I will subset the Covid cases in `New York` using the column `City`. Then I will group by month using the `datetime` column, and calculate the average number of Covid cases for each month." Be relatively short and concise; don't exceed 300 words.
+

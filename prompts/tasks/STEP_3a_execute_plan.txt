@@ -1,0 +1,8 @@
+Implement the analytic plan described here:
+
+```
+{}
+```
+
+Always return an actual data analysis with data-driven insights. 
+DO NOT, in any circumstances, return an hypothetical analysis or a general outline of the steps. Work with what you CAN do.   

@@ -1,0 +1,22 @@
+Based on the dataset, the investigative data reporter has completed multiple analyses. These are listed below.
+
+## Task
+Summarize the most newsworthy data-driven findings from these analyses using up to {} bullet points. Number the bullet points. Note that some analyses may contribute more bullet points than others, which is expected.
+
+Each bullet should reference the relevant analysis number in square brackets. For example: '1. There is a 50% increase in Covid-cases in New York City [5]'.
+
+If multiple analyses yield the same conclusion, include all applicable numbers in the reference.
+
+The summaries should adopt a clear, data-driven, and journalistic style, suitable for a broad audience, without resorting to clichés or emotive language. Clearly articulate the specific findings from the analyses, and refer to specific analyses and findings. 
+
+## Analysis
+{}
+
+
+
+## Instructions
+DO NOT, IN ANY CASE, USE interpretative language. ITS FORBIDDEN to use words such as "signalling,", "indicating", "showcasing," or "highlighting". Focus on stating the facts directly. For instance:
+
+```
+CenturyLin showed the most extreme disparities. They offered some customers service of 200 Mbps, amounting to as little as $0.25 per Mbps, but offered others living in the same city only 0.5 Mbps for 400 times as much—$100 per Mbps. [1]
+```

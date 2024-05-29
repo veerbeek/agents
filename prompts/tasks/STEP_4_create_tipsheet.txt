@@ -1,0 +1,11 @@
+Based on the dataset, the investigative data reporter has completed multiple analyses. These are listed below.
+
+Summarize the most newsworthy data-driven findings from these analyses using up to {} bullet points.
+
+Each bullet should reference the relevant analysis number in square brackets. For example: '- There is a 50% increase in Covid-cases in New York City [5]'.
+
+If multiple analyses yield the same conclusion, include all applicable numbers in the reference.
+
+The summaries should adopt a clear, data-driven, and journalistic style, suitable for a broad audience, without resorting to clichés or emotive language. Clearly articulate the specific findings from the analyses, and refer to specific analyses and findings. 
+
+{}

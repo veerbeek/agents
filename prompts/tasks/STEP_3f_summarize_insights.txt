@@ -1,0 +1,15 @@
+The analyst has tried to answer the following question:
+
+```
+{}
+```
+
+And these are the results:
+
+```
+{}
+```
+
+Summarize the most significant, data-driven findings from these analyses using bullet points. The summaries should be clear, factual, and journalistic, tailored for a broad audience. 
+
+Focus on articulating specific results directly from the analyses. Avoid including descriptions of data issues like missing values unless they are crucial to understanding the findings.

@@ -1,0 +1,20 @@
+Based on the dataset, your reporters wants to answer the following question:
+
+```
+{}
+```
+
+Based on this question, the data reporter has drafted the following analytical plan:
+
+```
+{}
+```
+
+Please review this analytical plan using the resources from your knowledge base. Provide focused and precise feedback as an experienced editor would. Emphasize critical insights and improvements, and avoid overwhelming the reporter with unnecessary checks. 
+
+The feedback should be highly relevant and directly enhance the specific analytical question. Limit your feedback to three most important points.
+
+
+
+
+

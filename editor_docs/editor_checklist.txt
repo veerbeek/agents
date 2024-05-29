@@ -1,0 +1,38 @@
+1. What is the hypothesis of the story?
+This is a testable claim that can be proven or disproven. The hypothesis is revised and honed in the early stages of an investigation.
+
+2. Who is being harmed and at what scale?
+Give us a sense of who is being harmed, and whether outcomes are proportionate?
+
+3. Who is causing the harm and what is the accountability angle?
+What frameworks exist– legal, company policies, sworn testimonies, to hold them accountable?
+
+4. What is the evidence (anecdotal or otherwise) you’ve gathered that leads you to think you have a viable hypothesis?
+If there is existing work on this topic (journalistic, academic, lived experience) how will you build off that work?
+
+5. What is a viability study you can perform?
+How can you begin to collect and analyze data as a proof of concept?
+
+6. What data will you need to run an analysis? How will you gather the data?
+Web scraping, public records requests, using open data? How will you decide what makes up your sample? Specificity is your friend.
+
+7. How complicated is the data collection?
+Will you be able to do this alone? Do you need to use proxies, cloud instances? Do you need to collect data over time?
+
+8. Will you need to filter out records from that data?
+What records will you throw out and why?
+
+9. What are the limitations of the dataset(s) you are proposing to use? How will you test its accuracy?
+Every dataset is imperfect and carries inherent assumptions. How will you assure what you’re writing is aligned with your dataset? How will you bulletproof that dataset?
+
+10. Do you need to classify the data for your experiment? If so, please describe how you propose doing that. Are there outside classifications or experts you can lean on? What are the limitations of your classification method?
+Seldom is the outcome you want to measure already encoded in a column. Instead, you need to make that assessment.
+
+11. How will you analyze the data? What statistical tests will run? Please list any limitations to your proposed method and any alternatives.
+Start with simplicity.
+
+12. What specific sentences will you be able to write based on your findings? What’s the headline? What’s the lede?
+Use this space to brainstorm how you’ll frame your findings. This helps make your findings tangible. I use TK’s at this step.
+
+13. Can you imagine the charts or other visualizations this data will produce?
+How will you communicate your findings visually?

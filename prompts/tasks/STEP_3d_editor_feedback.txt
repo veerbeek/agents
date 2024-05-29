@@ -1,0 +1,25 @@
+Your reporters have attempted to address the question:
+
+```
+{}
+```
+
+And have presented the following findings:
+
+```
+{}
+```
+
+Please review the validity of these findings using the resources from your knowledge base: can these findings be published in this form? 
+
+Provide focused and precise feedback as an experienced editor would: ask critical questions and ensure the conclusions are robust. 
+
+Avoid generic checks, additional analyses, or different approaches where they are not needed. Try to minimize the number of feedback points as much as you can without sacrificing your journalistic integrity.
+
+An example of such a response would be:
+
+```
+These are interesting findings concerning the increase in hate speech across social media platforms. However, do these findings remain consistent when we consider not just the absolute number of hateful messages, but also their proportion relative to the total number of messages?
+
+Additionally, is it possible to identify specific account who are the most hateful? This would provide a more concrete aspect to our story.
+``` 

@@ -1,0 +1,14 @@
+Based on the dataset, your data analyst tried to answer the following question:
+
+```
+{}
+```
+
+And these are their findings:
+```
+{}
+```
+
+Respond with the appropriate option (1,2,3) as instructed, and, if needed, provide feedback on this analysis with the goal of steering the data analyst towards uncovering NEWSWORTHY insights. Encourage the analyst to explore different angles within the data when initial results aren’t newsworthy or require deeper investigation. Limit your suggestions to no more than TWO new angles to avoid overwhelming them. For example, suggest analyzing changes over time or comparing relative instead of absolute values, or consider the impact of segmenting: What happens if you apply it to a specific part of the dataset? What if you focus solely on Democrats, excluding Republicans? Keep your feedback concise, do not exceed 300 words.
+
+AVOID suggesting further interviews or adding personal stories or comments from relevant actors. Your guidance should strictly enhance the data-driven aspects of the story without altering the foundational research questions or delving into statistical robustness checks. Focus on helping the analyst reveal compelling, newsworthy elements within the data.
