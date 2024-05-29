@@ -1,6 +1,6 @@
 To run the agents pipeline:
 
-```{python}
+```python
 from ddj_agents import AgentsPipeline, Baseline
 
 OPENAI_KEY = input()
