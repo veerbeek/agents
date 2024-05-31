@@ -1,7 +1,7 @@
 To run the agents pipeline:
 
 ```python
-from ddj_agents import AgentsPipeline, Baseline
+from ddj_agents import AgentsPipeline
 
 OPENAI_KEY = input()
 
