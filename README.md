@@ -1,4 +1,4 @@
-### Code for: Using Generative Agents to Create Tip Sheets for Investigative Data Reporting
+# Code and prompts for "Using Generative Agents to Create Tip Sheets for Investigative Data Reporting"
 
 To run the agents pipeline:
 
